@@ -1,0 +1,4 @@
+pygame
+pyserial
+tornado
+git+https://github.com/uArm-Developer/pyuf
